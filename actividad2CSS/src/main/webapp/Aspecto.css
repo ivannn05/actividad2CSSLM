@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+
+
+.titulo{
+	font-family: sans-serif;
+}
+
+
+.tabla{
+	border:solid red;
+	background-color:grey ;
+}
+
+.raton:hover{
+	color:black
+	
+}
+
+.lista{
+	
+	display: flex;
+	text-decoration: none;
+}
+
+a{
+	margin: 0.75rem;
+}
